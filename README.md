@@ -1,3 +1,6 @@
+![Banner](https://github.com/SunnyRao07/cnn-vs-mobilenet-image-classification/blob/main/banner.png)
+
+
 # 🧠 Image Classification using CNN vs MobileNetV2
 
 ## 📌 Project Overview  
